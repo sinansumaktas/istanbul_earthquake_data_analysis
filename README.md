@@ -1,2 +1,2 @@
-# istanbul_earthquake_data_analysisi
+# istanbul_earthquake_data_analysis
 Data Analist
